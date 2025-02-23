@@ -85,5 +85,4 @@ services:
       "--enable-chunked-prefill",
       "--trust-remote-code"
     ]
-    icp: host,
     restart: unless-stopped
